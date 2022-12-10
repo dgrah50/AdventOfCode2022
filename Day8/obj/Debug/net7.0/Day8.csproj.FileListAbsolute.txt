@@ -1,0 +1,15 @@
+/Users/dayangraham/Projects/live/adventofcode/Day8/bin/Debug/net7.0/Day8
+/Users/dayangraham/Projects/live/adventofcode/Day8/bin/Debug/net7.0/Day8.deps.json
+/Users/dayangraham/Projects/live/adventofcode/Day8/bin/Debug/net7.0/Day8.runtimeconfig.json
+/Users/dayangraham/Projects/live/adventofcode/Day8/bin/Debug/net7.0/Day8.dll
+/Users/dayangraham/Projects/live/adventofcode/Day8/bin/Debug/net7.0/Day8.pdb
+/Users/dayangraham/Projects/live/adventofcode/Day8/obj/Debug/net7.0/Day8.csproj.AssemblyReference.cache
+/Users/dayangraham/Projects/live/adventofcode/Day8/obj/Debug/net7.0/Day8.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dayangraham/Projects/live/adventofcode/Day8/obj/Debug/net7.0/Day8.AssemblyInfoInputs.cache
+/Users/dayangraham/Projects/live/adventofcode/Day8/obj/Debug/net7.0/Day8.AssemblyInfo.cs
+/Users/dayangraham/Projects/live/adventofcode/Day8/obj/Debug/net7.0/Day8.csproj.CoreCompileInputs.cache
+/Users/dayangraham/Projects/live/adventofcode/Day8/obj/Debug/net7.0/Day8.dll
+/Users/dayangraham/Projects/live/adventofcode/Day8/obj/Debug/net7.0/refint/Day8.dll
+/Users/dayangraham/Projects/live/adventofcode/Day8/obj/Debug/net7.0/Day8.pdb
+/Users/dayangraham/Projects/live/adventofcode/Day8/obj/Debug/net7.0/Day8.genruntimeconfig.cache
+/Users/dayangraham/Projects/live/adventofcode/Day8/obj/Debug/net7.0/ref/Day8.dll
