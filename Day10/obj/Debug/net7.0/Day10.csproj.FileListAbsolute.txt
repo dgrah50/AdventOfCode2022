@@ -1,0 +1,15 @@
+/Users/dayangraham/Projects/live/adventofcode/Day10/bin/Debug/net7.0/Day10
+/Users/dayangraham/Projects/live/adventofcode/Day10/bin/Debug/net7.0/Day10.deps.json
+/Users/dayangraham/Projects/live/adventofcode/Day10/bin/Debug/net7.0/Day10.runtimeconfig.json
+/Users/dayangraham/Projects/live/adventofcode/Day10/bin/Debug/net7.0/Day10.dll
+/Users/dayangraham/Projects/live/adventofcode/Day10/bin/Debug/net7.0/Day10.pdb
+/Users/dayangraham/Projects/live/adventofcode/Day10/obj/Debug/net7.0/Day10.csproj.AssemblyReference.cache
+/Users/dayangraham/Projects/live/adventofcode/Day10/obj/Debug/net7.0/Day10.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dayangraham/Projects/live/adventofcode/Day10/obj/Debug/net7.0/Day10.AssemblyInfoInputs.cache
+/Users/dayangraham/Projects/live/adventofcode/Day10/obj/Debug/net7.0/Day10.AssemblyInfo.cs
+/Users/dayangraham/Projects/live/adventofcode/Day10/obj/Debug/net7.0/Day10.csproj.CoreCompileInputs.cache
+/Users/dayangraham/Projects/live/adventofcode/Day10/obj/Debug/net7.0/Day10.dll
+/Users/dayangraham/Projects/live/adventofcode/Day10/obj/Debug/net7.0/refint/Day10.dll
+/Users/dayangraham/Projects/live/adventofcode/Day10/obj/Debug/net7.0/Day10.pdb
+/Users/dayangraham/Projects/live/adventofcode/Day10/obj/Debug/net7.0/Day10.genruntimeconfig.cache
+/Users/dayangraham/Projects/live/adventofcode/Day10/obj/Debug/net7.0/ref/Day10.dll
