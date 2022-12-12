@@ -135,7 +135,9 @@ struct MonkeyOperation
 class Monkey
 {
     public int Id { get; set; }
+
     public long ItemsInspected { get; set; }
+
     public List<long> Items { get; set; }
 
     public MonkeyOperation Operation { get; set; }
@@ -174,7 +176,6 @@ class Monkey
                         worryScore *= worryScore;
                     if (Operation.operand == MonkeyOperand.Add)
                         worryScore += Operation.magnitude;
-
                     if (Operation.operand == MonkeyOperand.Multiply)
                         worryScore *= Operation.magnitude;
 
@@ -213,22 +214,15 @@ class Monkey
                     var baseMod = monkeyMap.Aggregate(1, (a, kvp) => kvp.Value.Divisible * a);
                     worryScore = worryScore %= baseMod;
 
-                     
-                    
                     if (Operation.operand == MonkeyOperand.Self)
                         worryScore *= worryScore;
                     if (Operation.operand == MonkeyOperand.Add)
                         worryScore += Operation.magnitude;
-
                     if (Operation.operand == MonkeyOperand.Multiply)
                         worryScore *= Operation.magnitude;
-                    
 
-                    
                     if (worryScore % Divisible == 0)
                     {
-                        
-
                         monkeyMap[TrueDest].Items.Add(worryScore );
                     }
                     else
