@@ -38,8 +38,6 @@ class Solution
     
     var cycles = 0;
     var x = 1;
-
-
     
     foreach (var line in input.Split("\n"))
     {

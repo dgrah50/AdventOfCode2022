@@ -19,7 +19,6 @@ class Solution
     return 0;
   }
 
-
   public static int PartTwo()
   {
     string input = System.IO.File.ReadAllText(@"./input.txt");

@@ -120,7 +120,7 @@
         }
 
         tailVisitedPoints.Add(tailStack[9]);
-        plotGrid(tailStack, headPos);
+        // plotGrid(tailStack, headPos);
       }
     }
 
@@ -221,7 +221,7 @@
 
   static void Main(string[] args)
   {
-    // Console.WriteLine($"Part 1: {Solution.PartOne()}");
+    Console.WriteLine($"Part 1: {Solution.PartOne()}");
     Console.WriteLine($"Part 2: {Solution.PartTwo()}");
   }
 }
