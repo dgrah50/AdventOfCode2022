@@ -13,13 +13,8 @@ class Solution
       var monkeyId = parseMonkey(monkeyBlock, out var result);
       monkeyMap[monkeyId] = result;
     }
-<<<<<<< HEAD
 
     for (int i = 0; i < 20; ++i)
-=======
-    
-    public static long PartTwo()
->>>>>>> 12cc886 (Code cleanup)
     {
       for (int j = 0; j < monkeyMap.Count; ++j)
       {
@@ -136,14 +131,7 @@ struct MonkeyOperation
 
 class Monkey
 {
-<<<<<<< HEAD
   public int Id { get; set; }
-=======
-    public int Id { get; set; }
-    public long ItemsInspected { get; set; }
-    
-    public List<long> Items { get; set; }
->>>>>>> 12cc886 (Code cleanup)
 
   public long ItemsInspected { get; set; }
 
@@ -190,7 +178,6 @@ class Monkey
 
           worryScore /= 3;
 
-<<<<<<< HEAD
           if (worryScore % Divisible == 0)
           {
             monkeyMap[TrueDest].Items.Add(worryScore);
@@ -199,9 +186,6 @@ class Monkey
           {
             monkeyMap[FalseDest].Items.Add(worryScore);
           }
-=======
-                    worryScore /= 3;
->>>>>>> 12cc886 (Code cleanup)
 
           Items = new List<long>();
         }
@@ -227,7 +211,6 @@ class Monkey
           var baseMod = monkeyMap.Aggregate(1, (a, kvp) => kvp.Value.Divisible * a);
           worryScore = worryScore %= baseMod;
 
-<<<<<<< HEAD
           if (Operation.operand == MonkeyOperand.Self)
             worryScore *= worryScore;
           if (Operation.operand == MonkeyOperand.Add)
@@ -245,32 +228,6 @@ class Monkey
           }
 
           Items = new List<long>();
-=======
-                    if (Operation.operand == MonkeyOperand.Self)
-                        worryScore *= worryScore;
-                    if (Operation.operand == MonkeyOperand.Add)
-                        worryScore += Operation.magnitude;
-
-                    if (Operation.operand == MonkeyOperand.Multiply)
-                        worryScore *= Operation.magnitude;
-                    
-                    if (worryScore % Divisible == 0)
-                    {
-                        monkeyMap[TrueDest].Items.Add(worryScore );
-                    }
-                    else
-                    {
-                        monkeyMap[FalseDest].Items.Add(worryScore );
-                    }
-
-                    Items = new List<long>();
-                }
-            }
-            catch (OverflowException e)
-            {
-                Console.WriteLine(e.Message); // output: Arithmetic operation resulted in an overflow.
-            }
->>>>>>> 12cc886 (Code cleanup)
         }
       }
       catch (OverflowException e)

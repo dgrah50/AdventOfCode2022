@@ -4,7 +4,16 @@
     <projectFile>Day12.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="01d9dcb2-856b-4646-a05c-42c64c6b1b66" name="Changes" comment="" />
+    <list default="true" id="01d9dcb2-856b-4646-a05c-42c64c6b1b66" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Day13/Day13.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day13/Program.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day13/obj/Day13.csproj.nuget.dgspec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day13/obj/Day13.csproj.nuget.g.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day13/obj/Day13.csproj.nuget.g.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day13/obj/project.assets.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day13/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day11/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Day11/Program.cs" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
